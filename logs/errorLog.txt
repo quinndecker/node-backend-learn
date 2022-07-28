@@ -1,0 +1,7 @@
+20220726	16:11:30	153fd4f0-ebfc-46f0-9dad-a2b6b0f394e0	Error: Not Allowed by CORS!
+20220726	16:25:42	d4cb1a60-9d20-4f7b-9cab-ce424739e64c	Error: ENOENT: no such file or directory, stat 'C:\Users\quinn\Documents\Node.js Course\04TUT\views\ subdir\index.html'
+20220726	16:25:49	f729ad89-1ec1-43d0-86ec-c5707a4c428b	Error: ENOENT: no such file or directory, stat 'C:\Users\quinn\Documents\Node.js Course\04TUT\views\ subdir\index.html'
+20220726	16:26:26	052c5384-badc-46df-aa43-ea4a5a53a847	Error: ENOENT: no such file or directory, stat 'C:\Users\quinn\Documents\Node.js Course\04TUT\views\ subdir\index.html'
+20220727	12:22:54	d37ba6ea-aff3-4211-ac3c-ab20d6a8382a	TypeError: data.employess is not iterable
+20220727	15:39:29	28ee2bed-74e8-4ea3-ad2d-7ef4aa147f7a	TypeError: res.satus is not a function
+20220728	13:55:23	39614a98-5be8-448a-b685-4a5e385da069	SyntaxError: Unexpected token { in JSON at position 45
